@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AskParos.ai</title>
+  <desc id="desc">Aegean-day social preview for AskParos.ai — sand, turquoise water and a small sailboat.</desc>
+  <rect width="1200" height="630" fill="#F8F5EC"/>
+  <path d="M0 440C150 392 276 395 406 434c137 42 260 48 397 3 147-48 270-55 397-8v201H0Z" fill="#DDF2F3"/>
+  <path d="M0 492c150-42 281-42 420 0 134 40 257 42 386 0 151-48 274-52 394-13v151H0Z" fill="#2A9DB1" opacity=".2"/>
+  <circle cx="972" cy="158" r="84" fill="#F2C14E" opacity=".28"/>
+  <circle cx="972" cy="158" r="56" fill="#F2C14E"/>
+  <circle cx="972" cy="158" r="38" fill="#FBE9BD"/>
+  <g transform="translate(118 118)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 6 V96" stroke="#14505f" stroke-width="10"/>
+    <path d="M64 12 C94 34 102 66 100 92 L70 92" stroke="#14505f" stroke-width="10"/>
+    <path d="M22 108 L124 108 C117 130 98 141 73 141 C48 141 29 130 22 108 Z" stroke="#14505f" stroke-width="10"/>
+    <path d="M4 160 q15 -12 30 0 t30 0 t30 0 t30 0 t30 0" stroke="#2A9DB1" stroke-width="8"/>
+  </g>
+  <text x="120" y="368" fill="#14505f" font-family="Commissioner, Inter, Arial, sans-serif" font-size="86" font-weight="800">AskParos.ai</text>
+  <text x="126" y="430" fill="#0E8CA1" font-family="Commissioner, Inter, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="2">JUST ASK YOUR PAROS AI GUIDE</text>
+  <text x="126" y="494" fill="#4B5563" font-family="Commissioner, Inter, Arial, sans-serif" font-size="30" font-weight="600">Beaches, villages, Antiparos and easy island plans.</text>
+</svg>

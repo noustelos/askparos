@@ -1,0 +1,17 @@
+# macOS Finder metadata
+.DS_Store
+
+# Local QA artifacts
+qa-screenshots/
+
+# Environment files
+.env
+.env.local
+
+# Dependencies / builds
+node_modules/
+dist/
+build/
+
+# Internal build brief (kept local, do not publish)
+paros.md

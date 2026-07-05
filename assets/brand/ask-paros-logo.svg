@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">Ask Paros AI</title>
+  <desc id="desc">AskParos.ai wordmark with a line-art Aegean sailboat mark.</desc>
+  <rect width="720" height="180" fill="none"/>
+  <g transform="translate(30 22)">
+    <path d="M20 8 L23 15.5 L30 18.5 L23 21.5 L20 29 L17 21.5 L10 18.5 L17 15.5 Z" fill="#7c9473"/>
+    <circle cx="94" cy="20" r="7" fill="#f2c14e"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M58 10 V74" stroke="#14505f" stroke-width="6"/>
+      <path d="M58 14 C78 30 84 52 82 70 L62 70" stroke="#14505f" stroke-width="6"/>
+      <path d="M28 82 L100 82 C95 98 81 106 63 106 C45 106 33 98 28 82 Z" stroke="#14505f" stroke-width="6"/>
+      <path d="M12 118 q11 -9 22 0 t22 0 t22 0 t22 0" stroke="#2a9db1" stroke-width="5"/>
+    </g>
+  </g>
+  <text x="146" y="83" fill="#14505f" font-family="Commissioner, Inter, Arial, sans-serif" font-size="48" font-weight="800">AskParos</text>
+  <text x="147" y="124" fill="#5c7355" font-family="Commissioner, Inter, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6">AI</text>
+  <text x="204" y="124" fill="#74878d" font-family="Commissioner, Inter, Arial, sans-serif" font-size="24" font-weight="600">travel concierge</text>
+</svg>
