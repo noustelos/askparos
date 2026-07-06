@@ -24,7 +24,7 @@ and push.
 `styles.css`/`script.js` are edge- and browser-cached for 24h (`_headers`), so the
 HTML references them with a `?v=` query — **bump that version whenever you change
 either file**, or live visitors keep the stale asset for up to a day. Current
-version: `?v=paros1`.
+version: `?v=paros2`.
 
 ## Files that matter
 

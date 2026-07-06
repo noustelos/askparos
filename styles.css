@@ -443,7 +443,7 @@ h3 {
   content: "";
   position: absolute;
   top: 20px;
-  right: min(4vw, 60px);
+  right: min(14vw, 200px);
   z-index: -1;
   width: min(480px, 60vw);
   height: min(480px, 60vw);
@@ -459,9 +459,11 @@ h3 {
 .hero-scene {
   position: absolute;
   top: -26px;
-  right: min(2vw, 36px);
+  /* Nudged left + slightly smaller so the kastro and caique clear the chat
+     card (align-self: start, margin-top: 215px) instead of hiding behind it. */
+  right: min(12vw, 180px);
   z-index: -1;
-  width: min(560px, 58vw);
+  width: min(470px, 44vw);
   opacity: 0.95;
   pointer-events: none;
 }
