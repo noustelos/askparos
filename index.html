@@ -7,36 +7,42 @@
     <meta name="description" content="AskParos.ai is your calm, clear shortcut to Paros: beaches, villages, Antiparos, ferries and food — answered simply, without the ten open tabs.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://askparos.ai/">
-    <link rel="alternate" hreflang="en" href="https://askparos.ai/?lang=en">
-    <link rel="alternate" hreflang="el" href="https://askparos.ai/?lang=el">
-    <link rel="alternate" hreflang="x-default" href="https://askparos.ai/">
     <meta property="og:title" content="AskParos.ai – Calm, Clear Paros Answers">
     <meta property="og:description" content="Beaches, villages, Antiparos, ferries and food, without the ten open tabs. Ask anything. The island keeps it simple.">
     <meta property="og:url" content="https://askparos.ai/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Ask Paros AI">
     <meta property="og:locale" content="en_US">
-    <meta property="og:image" content="https://askparos.ai/assets/social/ask-paros-og.svg">
+    <meta property="og:locale:alternate" content="el_GR">
+    <meta property="og:image" content="https://askparos.ai/assets/social/ask-paros-og.png">
     <meta property="og:image:alt" content="Ask Paros AI logo on a light Aegean background">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="AskParos.ai – Calm, Clear Paros Answers">
     <meta name="twitter:description" content="Your calm, clear shortcut to Paros. Useful answers, minimal noise.">
-    <meta name="twitter:image" content="https://askparos.ai/assets/social/ask-paros-og.svg">
+    <meta name="twitter:image" content="https://askparos.ai/assets/social/ask-paros-og.png">
     <meta name="theme-color" content="#F8F5EC">
     <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;600&family=Literata:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css?v=paros2">
+    <link rel="stylesheet" href="styles.css?v=paros3">
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@graph": [
           {
+            "@type": "Organization",
+            "@id": "https://askparos.ai/#organization",
+            "name": "AskParos.ai",
+            "url": "https://askparos.ai/",
+            "logo": "https://askparos.ai/assets/brand/ask-paros-logo.svg"
+          },
+          {
             "@type": "WebSite",
             "@id": "https://askparos.ai/#website",
+            "publisher": { "@id": "https://askparos.ai/#organization" },
             "name": "AskParos.ai",
             "url": "https://askparos.ai/",
             "description": "AskParos.ai is a calm, clear Paros assistant for travel questions about beaches, villages, Antiparos, ferries, food and local plans.",
@@ -383,9 +389,11 @@
       </section>
     </main>
 
-    <section class="seo-context" aria-label="AskParos.ai search context">
-      <h2>AskParos.ai is a Paros AI assistant</h2>
-      <p>Use this Paros travel guide AI for things to do in Paros, Paros beaches like Kolymbithres, Santa Maria and Golden Beach, the Antiparos day trip and cave, Paros ferry and port questions, Naousa and Parikia plans, Lefkes and the marble villages, windsurfing in Paros, food, transport and local experiences. AskParos.ai works as an AI travel planner for Greece focused on practical Paros questions.</p>
+    <section class="seo-context" aria-label="About AskParos.ai">
+      <div class="seo-context-inner section-shell">
+        <h2 data-i18n="seoContextTitle">AskParos.ai is a Paros AI assistant</h2>
+        <p data-i18n="seoContextText">Use this Paros travel guide AI for things to do in Paros, Paros beaches like Kolymbithres, Santa Maria and Golden Beach, the Antiparos day trip and cave, Paros ferry and port questions, Naousa and Parikia plans, Lefkes and the marble villages, windsurfing in Paros, food, transport and local experiences. AskParos.ai works as an AI travel planner for Greece focused on practical Paros questions.</p>
+      </div>
     </section>
 
     <div class="acquisition-strip">
@@ -440,6 +448,6 @@
       </div>
     </dialog>
 
-    <script src="script.js?v=paros1" defer></script>
+    <script src="script.js?v=paros3" defer></script>
   </body>
 </html>
