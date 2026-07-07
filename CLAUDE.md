@@ -24,13 +24,14 @@ and push.
 `styles.css`/`script.js` are edge- and browser-cached for 24h (`_headers`), so the
 HTML references them with a `?v=` query — **bump that version whenever you change
 either file**, or live visitors keep the stale asset for up to a day. Current
-version: `?v=paros3`.
+version: `?v=paros4`.
 
 ## Files that matter
 
 - [index.html](index.html) — the whole landing page (acquisition banner, hero +
   chat card + Naousa harbor SVG, questions, how-it-works, tours, concierge,
-  ASK-network panel, acquisition strip, footer, cookie banner, modals).
+  ASK-network panel, revenue-potential section, acquisition strip, footer,
+  cookie banner, modals).
 - [styles.css](styles.css) — the single stylesheet, shared by ALL pages.
 - [script.js](script.js) — all interactivity, served un-minified (no script.min.js).
 - [faq.html](faq.html) / [faq-el.html](faq-el.html) — bilingual FAQ (two static files,
@@ -84,9 +85,12 @@ Tokens in `:root`:
   info@asksantorini.ai, subject "AskParos.ai Domain Acquisition".
 - Instagram links → https://www.instagram.com/asksantoriniai/ (the network account).
 - Sanctioned cross-site references, and ONLY these: the acquisition mailto, the
-  network panel links (asksantorini LIVE / asksingapore DEMO / askmykonos DEMO /
-  askparos "Demo — this site" unlinked), the chat card's scripted-demo attribution
-  linking asksantorini.ai, and the Instagram links.
+  network panel links (full constellation: asksantorini LIVE / asksingapore,
+  askmykonos, askaustralia, asksydney, asknewyork "Demo · For sale" / askparos
+  "Demo · For sale — this site" unlinked), the chat card's scripted-demo
+  attribution linking asksantorini.ai, the revenue section's flagship link to
+  asksantorini.ai, and the Instagram links. No footer sister line — the panel is
+  the full treatment.
 - **Zero shared infra**: never wire this site to the AskSantorini Worker or any
   backend. `workerUrl` stays the `PASTE_…` placeholder; the scripted engine lives in
   the `!isWorkerConfigured` branch of `sendMessage`, so a real backend simply
