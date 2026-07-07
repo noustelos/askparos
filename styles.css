@@ -1732,7 +1732,7 @@ a.network-destination.is-live:hover {
 
 .acquisition-strip .acquisition-slogan {
   color: var(--sage-deep);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .acquisition-strip .button {
