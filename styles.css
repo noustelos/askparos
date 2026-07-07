@@ -1713,6 +1713,18 @@ a.network-destination.is-live:hover {
   text-align: center;
 }
 
+.acquisition-strip-copy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+}
+
+.acquisition-strip .acquisition-slogan {
+  color: var(--sage-deep);
+  font-size: 0.95rem;
+}
+
 .acquisition-strip .button {
   gap: 8px;
   min-height: 44px;

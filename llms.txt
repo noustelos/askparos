@@ -34,6 +34,14 @@ from the same network, see AskSantorini.ai.
   beaches; taxis are limited in peak season (book transfers ahead); a car or ATV helps
   for remote corners like Faragas and the Marathi marble quarries.
 
+## The ASK Network
+
+- [AskSantorini.ai](https://asksantorini.ai): The network flagship — a live AI travel
+  concierge for Santorini.
+- Portfolio: the rest of the network (asksingapore.ai, askmykonos.ai, askparos.ai —
+  this site, askaustralia.ai, asksydney.ai, asknewyork.ai) are premium "Ask" domains,
+  each with a working scripted demo, available for acquisition.
+
 ## Concierge
 
 - [Concierge services](https://askparos.ai/#concierge): Ask about photographers, wedding

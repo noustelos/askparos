@@ -24,7 +24,7 @@ and push.
 `styles.css`/`script.js` are edge- and browser-cached for 24h (`_headers`), so the
 HTML references them with a `?v=` query — **bump that version whenever you change
 either file**, or live visitors keep the stale asset for up to a day. Current
-version: `?v=paros4`.
+version: `?v=paros5`.
 
 ## Files that matter
 
@@ -82,7 +82,10 @@ Tokens in `:root`:
   network. **No `@askparos.ai` or `@askmykonos.ai` address may appear anywhere**
   (grep-verify zero before shipping).
 - Acquisition messaging: top pill banner + pre-footer strip, both mailto
-  info@asksantorini.ai, subject "AskParos.ai Domain Acquisition".
+  info@asksantorini.ai, subject "AskParos.ai Domain Acquisition". The strip
+  carries the network slogan "Don't buy a domain. Own the verb." as a second
+  line — ONE placement per site, EN-only (untranslatable wordplay, don't
+  translate or repeat it elsewhere).
 - Instagram links → https://www.instagram.com/asksantoriniai/ (the network account).
 - Sanctioned cross-site references, and ONLY these: the acquisition mailto, the
   network panel links (full constellation: asksantorini LIVE / asksingapore,
