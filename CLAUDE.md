@@ -78,11 +78,11 @@ Tokens in `:root`:
 
 ## Contact & cross-site rules (non-negotiable)
 
-- **Every contact point is info@asksantorini.ai** — the only working address in the
+- **Every contact point is info@noustelos.gr** — the studio address (not on the for-sale domain) and the working address for the
   network. **No `@askparos.ai` or `@askmykonos.ai` address may appear anywhere**
   (grep-verify zero before shipping).
 - Acquisition messaging: top pill banner + pre-footer strip, both mailto
-  info@asksantorini.ai, subject "AskParos.ai Domain Acquisition". The strip
+  info@noustelos.gr, subject "AskParos.ai Domain Acquisition". The strip
   carries the network slogan "Don't buy a domain. Own the verb." as a second
   line — ONE placement per site, EN-only (untranslatable wordplay, don't
   translate or repeat it elsewhere).

@@ -51,6 +51,6 @@ from the same network, see AskSantorini.ai.
 
 - [Privacy note](https://askparos.ai/privacy-policy.html): Demonstration site — no data
   collection; the chat is a scripted demo that runs entirely in the browser.
-- [Contact](mailto:info@asksantorini.ai): Questions about this demo or acquiring the
+- [Contact](mailto:info@noustelos.gr): Questions about this demo or acquiring the
   askparos.ai domain.
 - [Instagram](https://www.instagram.com/asksantoriniai/): Updates.

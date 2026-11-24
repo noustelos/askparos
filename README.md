@@ -2,7 +2,7 @@
 
 Static demo site for **AskParos.ai** — a scripted AI-travel-concierge
 **demonstration** for Paros, Greece. Part of the "ASK" network of AI travel
-guides. The domain is **available for acquisition**: info@asksantorini.ai.
+guides. The domain is **available for acquisition**: info@noustelos.gr.
 
 ## Status
 
@@ -65,5 +65,5 @@ Cloudflare Pages, **git-connected to `main`**: every push to `main` goes
 
 Zero cross-project dependency: this site calls no external services. The only
 sanctioned cross-site references are the acquisition mailto
-(info@asksantorini.ai), the network panel links, the chat card's scripted-demo
+(info@noustelos.gr), the network panel links, the chat card's scripted-demo
 attribution and the Instagram links.
